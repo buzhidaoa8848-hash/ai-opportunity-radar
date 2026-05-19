@@ -1,0 +1,30 @@
+# AI Opportunity Radar — Data Sources Configuration
+
+github:
+  enabled: true
+  queries:
+    - llm agent
+    - rag agent
+    - multimodal ai
+    - ai coding
+    - quant backtesting
+  max_results_per_query: 10
+
+arxiv:
+  enabled: true
+  queries:
+    - multimodal depression detection
+    - small sample multimodal learning
+    - affective computing
+    - domain generalization medical AI
+    - LLM agent workflow
+  max_results_per_query: 10
+
+rss:
+  enabled: true
+  feeds:
+    - name: Hacker News
+      url: https://hnrss.org/frontpage
+    - name: Hugging Face Papers
+      url: https://huggingface.co/papers/rss
+  max_items_per_feed: 20

@@ -1,0 +1,62 @@
+# AI Opportunity Radar — Keyword Categories
+# Each category maps to a set of keywords used for relevance scoring.
+
+ai_agent:
+  - AI agent
+  - agent memory
+  - RAG
+  - AI coding
+  - Claude Code
+  - autonomous agent
+  - workflow automation
+  - LLM agent
+  - agentic workflow
+  - tool use
+  - function calling
+  - MCP server
+  - agent framework
+  - multi-agent
+
+multimodal_research:
+  - multimodal learning
+  - small sample multimodal learning
+  - multimodal depression detection
+  - affective computing
+  - medical AI
+  - domain generalization
+  - few-shot multimodal
+  - cross-modal
+  - vision language model
+  - audio-visual
+  - emotion recognition
+  - mental health AI
+
+career:
+  - AI internship
+  - AI startup
+  - 大模型实习
+  - AI产品实习
+  - 算法实习
+  - AI初创
+  - machine learning intern
+  - research intern
+  - AI product manager
+  - AI创业
+
+quant:
+  - quant research
+  - backtesting
+  - factor model
+  - financial machine learning
+  - algorithmic trading
+  - portfolio optimization
+  - time series forecasting
+  - alpha research
+
+hackathon:
+  - AI hackathon
+  - data competition
+  - startup competition
+  - Kaggle competition
+  - AI challenge
+  - hackathon

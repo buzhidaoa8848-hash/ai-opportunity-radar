@@ -1,0 +1,27 @@
+# Environment — contains secrets, never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Data — auto-generated, too large / changes daily
+data/raw/
+data/processed/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports — daily output, only commit examples/
+reports/daily/

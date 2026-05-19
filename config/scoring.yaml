@@ -1,0 +1,38 @@
+# AI Opportunity Radar — Scoring Rules
+
+weights:
+  relevance: 0.30
+  actionability: 0.25
+  trend: 0.20
+  portfolio: 0.15
+  novelty: 0.10
+
+# Bonus keywords that boost relevance score
+boost_keywords:
+  high:
+    - AI agent
+    - Claude Code
+    - multimodal depression
+    - small sample multimodal
+    - domain generalization
+    - quant
+    - intern
+    - startup
+    - agentic
+    - MCP
+    - hackathon
+  medium:
+    - RAG
+    - AI coding
+    - medical AI
+    - affective computing
+    - backtesting
+    - competition
+    - LLM
+    - open source
+    - benchmark
+
+# Score thresholds for level assignment
+thresholds:
+  keep: 8
+  watch: 5
